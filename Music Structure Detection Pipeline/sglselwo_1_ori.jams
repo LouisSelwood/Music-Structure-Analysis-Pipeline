@@ -1,0 +1,278 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tag_gtzan",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 232.0,
+          "value": "pop",
+          "confidence": 0.8
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tag_fma_genre",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 232.0,
+          "value": "Soul-RnB",
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tag_fma_subgenre",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 232.0,
+          "value": "Progressive",
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tempo",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 232.0,
+          "value": 102.0,
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "key_mode",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 232.0,
+          "value": "E:major",
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "segment_salami_upper",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 7.5,
+          "value": "A",
+          "confidence": null
+        },
+        {
+          "time": 7.5,
+          "duration": 10.5,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 18.0,
+          "duration": 19.0,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 37.0,
+          "duration": 9.299999999999997,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 46.3,
+          "duration": 19.400000000000006,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 65.7,
+          "duration": 9.200000000000003,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 74.9,
+          "duration": 14.0,
+          "value": "E",
+          "confidence": null
+        },
+        {
+          "time": 88.9,
+          "duration": 10.0,
+          "value": "F",
+          "confidence": null
+        },
+        {
+          "time": 98.9,
+          "duration": 27.799999999999997,
+          "value": "G",
+          "confidence": null
+        },
+        {
+          "time": 126.7,
+          "duration": 19.200000000000003,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 145.9,
+          "duration": 9.400000000000006,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 155.3,
+          "duration": 13.699999999999989,
+          "value": "E",
+          "confidence": null
+        },
+        {
+          "time": 169.0,
+          "duration": 10.0,
+          "value": "F",
+          "confidence": null
+        },
+        {
+          "time": 179.0,
+          "duration": 28.099999999999994,
+          "value": "G",
+          "confidence": null
+        },
+        {
+          "time": 207.1,
+          "duration": 24.900000000000006,
+          "value": "H",
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "What's Going On",
+    "artist": "Marvin Gaye",
+    "release": "What's Going On",
+    "duration": 244,
+    "identifiers": {
+      "isrc": "USMO17100041",
+      "musicbrainz": "5a80bd9b-4d50-4329-a392-005e9b4be48f",
+      "youtube": "H-kA3UtBj4M"
+    },
+    "jams_version": "0.3.5"
+  },
+  "sandbox": {}
+}

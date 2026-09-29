@@ -1,0 +1,279 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tag_gtzan",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 237.8,
+          "value": "pop",
+          "confidence": 0.8
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tag_fma_genre",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 237.8,
+          "value": "Soul-RnB",
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tag_fma_subgenre",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 237.8,
+          "value": "Dance",
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "tempo",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 237.8,
+          "value": 124.0,
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {
+          "name": "Louis Selwood",
+          "email": "sglselwo@liverpool.ac.uk"
+        },
+        "version": "1.0",
+        "corpus": "COMP346 Dataset",
+        "annotation_tools": "jams-python",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "crowdsource"
+      },
+      "namespace": "key_mode",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 237.8,
+          "value": "Bb:major",
+          "confidence": 1
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    },
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "segment_salami_upper",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 23.5,
+          "value": "A",
+          "confidence": null
+        },
+        {
+          "time": 23.5,
+          "duration": 15.299999999999997,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 38.8,
+          "duration": 15.700000000000003,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 54.5,
+          "duration": 23.299999999999997,
+          "value": "C",
+          "confidence": null
+        },
+        {
+          "time": 77.8,
+          "duration": 15.5,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 93.3,
+          "duration": 15.299999999999997,
+          "value": "E",
+          "confidence": null
+        },
+        {
+          "time": 108.6,
+          "duration": 15.5,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 124.1,
+          "duration": 16.0,
+          "value": "B",
+          "confidence": null
+        },
+        {
+          "time": 140.1,
+          "duration": 14.900000000000006,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 155.0,
+          "duration": 15.599999999999994,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 170.6,
+          "duration": 15.400000000000006,
+          "value": "F",
+          "confidence": null
+        },
+        {
+          "time": 186.0,
+          "duration": 16.0,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 202.0,
+          "duration": 15.099999999999994,
+          "value": "D",
+          "confidence": null
+        },
+        {
+          "time": 217.1,
+          "duration": 16.900000000000006,
+          "value": "G",
+          "confidence": null
+        },
+        {
+          "time": 234.0,
+          "duration": 3.8000000000000114,
+          "value": "silence",
+          "confidence": null
+        }
+      ],
+      "sandbox": {},
+      "time": 0,
+      "duration": null
+    }
+  ],
+  "file_metadata": {
+    "title": "If I Only Had A Soul",
+    "artist": "Suno",
+    "release": "Suno",
+    "duration": 237,
+    "identifiers": {},
+    "jams_version": "0.3.5"
+  },
+  "sandbox": {
+    "content": {
+      "ai_prompt": "A Soul R-B, dance, 70s, male singer, backing choir, funky, upbeat, fast",
+      "platform": "Suno"
+    }
+  }
+}
